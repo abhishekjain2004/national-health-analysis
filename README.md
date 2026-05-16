@@ -150,11 +150,13 @@ These visuals provide a more interactive experience than native Power BI visuals
 
 ## 📸 Dashboard Screenshots
 
-> Open in Power BI Desktop and take screenshots of all 3 pages
 
-![Patient Demographics](images/page1_demographics.png)
-![Key Trends](images/page2_trends.png)
-![Treatment & Cost](images/page3_treatment_cost.png)
+![Patient Demographics] <img width="1920" height="968" alt="page1_demographics" src="https://github.com/user-attachments/assets/97e12242-46a8-4c18-aa1e-c9c7b1a3091e" />
+
+![Key Trends] <img width="1920" height="978" alt="page2_trends" src="https://github.com/user-attachments/assets/724e84f9-f498-40e2-8895-498b7fc0380b" />
+
+![Treatment & Cost] <img width="1920" height="970" alt="page3_treatment_cost" src="https://github.com/user-attachments/assets/a7c72018-a434-417e-8c92-306f81baf591" />
+
 
 ---
 
